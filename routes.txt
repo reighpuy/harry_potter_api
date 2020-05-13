@@ -1,0 +1,3 @@
+All routes need to be prefixed with
+
+> https://www.potterapi.com/v1/
